@@ -1,6 +1,11 @@
 Step 1: Observe The Ticket for VPN Issues on OS Ticket
+
 Step 2: Make a Certificate is downloaded properly from the right site
+
 Step 3: Go to Local Certificate Manager to see if the new downloaded certificate is there if not, import into the Trusted Root Certificate Authorities Folder
+
 Step 4: Configure VPN connection with new downloaded trusted certificate, input proper information (VPN Provider, Connection Name, Server Name, VPN type, etc.)
+
 Step 5: Test the ping on the VPN connection to the right domain 
+
 Step 6: Lastly update the user about the task, and close the ticket
